@@ -1,0 +1,1 @@
+BloomWell is an AI-powered maternal healthcare monitoring system with emergency SOS support.
